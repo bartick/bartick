@@ -10,6 +10,6 @@
 
 #### Connect with me
 
-![Profile views](https://gpvc.arturio.dev/bartick)  [![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=g&label=Discord&logo=discord&style=flat-square)](https://discord.gg/XRVnxHs3)
+![Profile views](https://gpvc.arturio.dev/bartick)  [![Support Server](https://img.shields.io/discord/735210538593943585.svg?color=g&label=Discord&logo=discord&style=flat-square)](https://discord.gg/XRVnxHs3)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bartick&show_icons=true)  
