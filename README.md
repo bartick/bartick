@@ -1,15 +1,39 @@
-# Welcome to my Github page 👋
+# Welcome to my Github page &nbsp;<img src="./images/Greetings.gif" width="30px">
 
-* Have a nice time here
+* 📚 &nbsp; I am a 1st year CSE student at Rcc Institute of Information Technology
+* 🎤 &nbsp; I am an intermediate at coding but I aspire to be build the top software that people could love to use.
+* 🤝 &nbsp; I am always looking to contribute in any projects I can. 
+* <img src="./images/animegirl.gif" width="25px"> &nbsp; I love watching anime while feeling bored or love to listen to music while coding.
+
+## <img src="./images/tech.gif" width="30px"> Technologies I can use use but not limited to
+![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white) &nbsp;
+![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white) &nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white) &nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white) &nbsp;
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) &nbsp;
+![NodeJs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white) &nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) &nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) &nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) &nbsp;
+![ReactJs](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) &nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white) &nbsp;
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![Sqlite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)
 
 
-### Some info about my github
 
-* If my github contribution graph looks too suspecious check out my repository [gitgraph](https://github.com/bartick/gitgraph "gitgraph") and read the README.md file for some info.
+## 🏅 My GitHub Stats 
 
+![Profile views](https://gpvc.arturio.dev/bartick)    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bartick&layout=compact&theme=dark)      
+![Bartick's github stats](https://github-readme-stats.vercel.app/api?username=bartick&show_icons=true&include_all_commits=true&theme=dark)     
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bartick&theme=dark)     
 
-#### Connect with me
+<h2>Github Trophies <img src="./images/Trophies.png" width="30px"></h2>   
 
-![Profile views](https://gpvc.arturio.dev/bartick)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bartick&show_icons=true)  
+![Trohpies](https://github-profile-trophy.vercel.app/?username=bartick&theme=onedark&no-frame=true&no-bg=true&theme=discord)
