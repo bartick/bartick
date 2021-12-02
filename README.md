@@ -25,7 +25,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)
 
-## Contact Me at
+## 📞 Contact Me at
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/bartick2003/) &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bartick._/) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartick-maiti-83952721a/) &nbsp;
