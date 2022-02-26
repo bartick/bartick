@@ -35,10 +35,14 @@
 
 ## 🏅 My GitHub Stats 
 
-![Profile views](https://gpvc.arturio.dev/bartick)    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bartick&layout=compact&theme=dark)      
-![Bartick's github stats](https://github-readme-stats.vercel.app/api?username=bartick&show_icons=true&include_all_commits=true&theme=dark)     
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bartick&theme=dark)     
+![Profile views](https://gpvc.arturio.dev/bartick) 
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bartick&layout=compact&theme=dark#gh-dark-mode-only)           
+  ![Bartick's github stats](https://github-readme-stats.vercel.app/api?username=bartick&show_icons=true&include_all_commits=true&theme=dark)     
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bartick&theme=dark)     
+  
+</div> 
 
 <h2>Github Trophies <img src="./images/Trophies.png" width="30px"></h2>   
 
