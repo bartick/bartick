@@ -1,11 +1,11 @@
-# Welcome to my Github page &nbsp;<img src="./images/Greetings.gif" width="3%">
+# Welcome to my Github page &nbsp;<img src="./images/Greetings.gif" width="4%">
 
 * 📚 &nbsp; I am a 1st year CSE student at Rcc Institute of Information Technology
 * 🎤 &nbsp; I am intermediate at coding but I aspire to build the best software that people will love to use.
 * 🤝 &nbsp; I am always looking to contribute in any projects where I can. 
 * <img src="./images/animegirl.gif" width="3%">  I love watching anime while feeling bored or love to listen to music while coding.
 
-## <img src="./images/tech.gif" width="4%"> Technologies I can use use but not limited to
+## <img src="./images/tech.gif" width="5%"> Technologies I can use use but not limited to
 ![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white) &nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white) &nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white) &nbsp;
