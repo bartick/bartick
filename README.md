@@ -38,12 +38,26 @@
 ![Profile views](https://gpvc.arturio.dev/bartick) 
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bartick&layout=compact&theme=dark#gh-dark-mode-only)    
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bartick&layout=compact&theme=light#gh-light-mode-only)              
-  ![Bartick's github stats](https://github-readme-stats.vercel.app/api?username=bartick&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)     
-  ![Bartick's github stats](https://github-readme-stats.vercel.app/api?username=bartick&show_icons=true&include_all_commits=true&theme=light#gh-light-mode-only)     
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bartick&theme=dark#gh-dark-mode-only)     
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bartick&theme=light#gh-light-mode-only)     
+  <div>
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bartick&layout=compact&theme=dark"  media="(prefers-color-scheme: dark)">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartick&layout=compact&theme=light">
+    </picture>
+  </div>
+  
+  <div>
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api?username=bartick&show_icons=true&include_all_commits=true&theme=dark"  media="(prefers-color-scheme: dark)">
+      <img src="https://github-readme-stats.vercel.app/api?username=bartick&show_icons=true&include_all_commits=true&theme=light">
+    </picture>
+  </div>
+  
+  <div>
+    <picture>
+      <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=bartick&theme=dark"  media="(prefers-color-scheme: dark)">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=bartick&theme=light">
+    </picture>
+  </div>
   
 </div> 
 
