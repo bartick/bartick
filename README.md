@@ -1,6 +1,6 @@
 # Welcome to my Github page &nbsp;<img src="./images/Greetings.gif" width="5%" height="5%">
 
-* 📚 &nbsp; I am a 1st year CSE student at Rcc Institute of Information Technology
+* 📚 &nbsp; I am a 2nd year CSE student at Rcc Institute of Information Technology
 * 🎤 &nbsp; I am intermediate at coding but I aspire to build the best software that people will love to use.
 * 🤝 &nbsp; I am always looking to contribute in any projects where I can. 
 * <img src="./images/animegirl.gif" width="3%" height="2%">  I love watching anime while feeling bored or love to listen to music while coding.
