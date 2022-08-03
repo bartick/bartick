@@ -4,9 +4,9 @@
 * 🎤 &nbsp; I intermediate at coding but I aspire to build the best software that people will love to use.
 * 🧑‍🎓 &nbsp; Currently a Backend Developer Intern at Ringover
 * 🤝 &nbsp; I am always looking to contribute in any projects where I can. 
-* <img src="./images/animegirl.gif" height="24px">  I love watching anime while feeling bored or love to listen to music while coding.
+* <img src="./images/animegirl.gif" height="24px" width='28px'>  I love watching anime while feeling bored or love to listen to music while coding.
 
-## <img src="./images/tech.gif" height="24px"> Technologies I can use use but not limited to
+## <img src="./images/tech.gif" height="24px" width='35px'> Technologies I can use use but not limited to
 ![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white) &nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white) &nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white) &nbsp;
