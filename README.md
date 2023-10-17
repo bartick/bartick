@@ -131,7 +131,7 @@
 
 <div>
   <picture>
-    <source srcset="https://spotify.bartick.me/status?username=bartick&theme=dark"  media="(prefers-color-scheme: dark)">
+    <source srcset="https://spotify.bartick.me/status?username=bartick"  media="(prefers-color-scheme: dark)">
     <img src="https://spotify.bartick.me/status?username=bartick">
   </picture>
 </div>
