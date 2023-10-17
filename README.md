@@ -129,9 +129,9 @@
 
 <h2>🎧 Enjoy this song along me</h2>
 
-<!-- <div>
+<div>
   <picture>
     <source srcset="https://spotify.bartick.me/status?username=bartick&theme=dark"  media="(prefers-color-scheme: dark)">
     <img src="https://spotify.bartick.me/status?username=bartick">
   </picture>
-</div> -->
+</div>
