@@ -1,30 +1,91 @@
 # Welcome to my Github page &nbsp;<img src="./images/Greetings.gif" width="5%" height="5%">
 
-* 📚 &nbsp; I am a 2nd year CSE student at Rcc Institute of Information Technology
+* 📚 &nbsp; I am a 3nd year CSE student at Rcc Institute of Information Technology
 * 🎤 &nbsp; I intermediate at coding but I aspire to build the best software that people will love to use.
-* 🧑‍🎓 &nbsp; Currently a Backend Developer Intern at Ringover
 * 🤝 &nbsp; I am always looking to contribute in any projects where I can. 
 * <img src="./images/animegirl.gif" height="24px" width='28px'>  I love watching anime while feeling bored or love to listen to music while coding.
 
-## <img src="./images/tech.gif" height="24px" width='35px'> Technologies I can use use but not limited to
-![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white) &nbsp;
-![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white) &nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white) &nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white) &nbsp;
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) &nbsp;
-![NodeJs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white) &nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) &nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) &nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) &nbsp;
-![ReactJs](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) &nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white) &nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)
+<div align="center" style="witdh:100%"> 
+  <table>
+    <tr>
+      <td valign="center" width="100px"><b>Frontend<b></td>
+      <td valign="center" width="100px"><b>Backend<b></td>
+      <td valign="center" width="100px"><b>Dev<b></td>
+    </tr>
+    <tr>
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/HTML-blue" /> 
+        <img src="https://img.shields.io/badge/CSS-blue" />
+        <img src="https://img.shields.io/badge/JavaScript-blue" /> 
+        <img src="https://img.shields.io/badge/TypeScript-blue" />
+        <img src="https://img.shields.io/badge/React-blue" /> 
+        <img src="https://img.shields.io/badge/Vue-blue" /> 
+        <img src="https://img.shields.io/badge/Angular-blue" /> 
+        <img src="https://img.shields.io/badge/Bootstrap-blue" /> 
+        <img src="https://img.shields.io/badge/Tailwind-blue" /> 
+        <img src="https://img.shields.io/badge/Next-blue" /> 
+        <img src="https://img.shields.io/badge/Nuxt-blue" /> 
+        <img src="https://img.shields.io/badge/Shopify-blue" /> 
+        <img src="https://img.shields.io/badge/Chart.js-blue" />
+      </td>      
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/Django-blue" /> 
+        <img src="https://img.shields.io/badge/Python-blue" /> 
+        <img src="https://img.shields.io/badge/Selenium-blue" />        
+        <img src="https://img.shields.io/badge/Ruby-blue" /> 
+        <img src="https://img.shields.io/badge/Rails-blue" /> 
+        <img src="https://img.shields.io/badge/BeautifulSoup-blue" /> 
+        <img src="https://img.shields.io/badge/Pandas-blue" /> 
+        <img src="https://img.shields.io/badge/Numpy-blue" /> 
+        <img src="https://img.shields.io/badge/Flask-blue" /> 
+        <img src="https://img.shields.io/badge/PHP-blue" /> 
+        <img src="https://img.shields.io/badge/Laravel-blue" /> 
+        <img src="https://img.shields.io/badge/Node.js-blue" /> 
+        <img src="https://img.shields.io/badge/Express-blue" /> 
+        <img src="https://img.shields.io/badge/Nest.js-blue" /> 
+      </td>
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/AWS-blue" /> 
+        <img src="https://img.shields.io/badge/CI/CD-blue" /> 
+        <img src="https://img.shields.io/badge/Docker-blue" /> 
+        <img src="https://img.shields.io/badge/TDD-blue" /> 
+        <img src="https://img.shields.io/badge/Jira-blue" /> 
+        <img src="https://img.shields.io/badge/Tezos-blue" /> 
+        <img src="https://img.shields.io/badge/MySQL-blue" /> 
+        <img src="https://img.shields.io/badge/NoSQL-blue" /> 
+        <img src="https://img.shields.io/badge/MongoDB-blue" /> 
+        <img src="https://img.shields.io/badge/PostgreSQL-blue" /> 
+      </td>
+    </tr>
+  </table>
+  
+ <table>
+    <tr>
+      <td valign="center" width="100px"><b>Blockchain<b></td>
+      <td valign="center" width="100px"><b>Design<b></td>
+    </tr>
+    <tr>
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/Web3.js-blue" /> 
+        <img src="https://img.shields.io/badge/Solidity-blue" /> 
+        <img src="https://img.shields.io/badge/Ethers.js-blue" /> 
+        <img src="https://img.shields.io/badge/Solana-blue" /> 
+        <img src="https://img.shields.io/badge/Golang-blue" /> 
+        <img src="https://img.shields.io/badge/Rust-blue" /> 
+        <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
+        <img src="https://img.shields.io/badge/Bitcoin-blue" />
+      </td>
+     <td valign="center" align="center" width="300px">
+       <img src="https://img.shields.io/badge/Photoshop-blue" /> 
+       <img src="https://img.shields.io/badge/Adobe XD-blue" /> 
+       <img src="https://img.shields.io/badge/Figma-blue" /> 
+       <img src="https://img.shields.io/badge/Blender-blue" /> 
+       <img src="https://img.shields.io/badge/WebGL-blue" /> 
+       <img src="https://img.shields.io/badge/Three.js-blue" /> 
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📞 Contact Me at
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/bartick2003/) &nbsp;
@@ -36,7 +97,7 @@
 
 ## 🏅 My GitHub Stats 
 
-![Profile views](https://gpvc.arturio.dev/bartick) 
+![Profile views](https://komarev.com/ghpvc/?username=bartick) 
 <div align="center">
   
   <div>
@@ -65,3 +126,12 @@
 <h2>Github Trophies <img src="./images/Trophies.png" width="30px"></h2>   
 
 ![Trohpies](https://github-profile-trophy.vercel.app/?username=bartick&theme=onedark&no-frame=true&no-bg=true&theme=discord)
+
+<h2>🎧 Enjoy this song along me</h2>
+
+<div>
+  <picture>
+    <source srcset="https://spotify.bartick.me/status?username=bartick&theme=dark"  media="(prefers-color-scheme: dark)">
+    <img src="https://spotify.bartick.me/status?username=bartick">
+  </picture>
+</div>
